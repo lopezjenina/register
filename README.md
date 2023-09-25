@@ -1,10 +1,11 @@
 ### Installation
 1. Clone the repository:
+   - https://github.com/lopezjenina/register.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 run python -m http.server on terminal
 
-3. Open the `index.html` file in your preferred web browser.
+4. Open the `index.html` file in your preferred web browser.
 
 
 ### Usage
