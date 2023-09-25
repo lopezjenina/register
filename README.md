@@ -14,3 +14,5 @@ run python -m http.server on terminal
 
 ### Dependencies
 - Bootstrap 5.3.0
+- Vanilla JavaScript
+- https://renting-api.onrender.com/users/register
